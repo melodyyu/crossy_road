@@ -1,6 +1,6 @@
 # crossy_road
 
-This is a simple game in which the only objective of the game is to get to the treasure while dodging enemies. 
+This is a simple game in which the only objective of the game is to reach the treasure while succesfully dodging enemies. 
 
 # Functionality
 
